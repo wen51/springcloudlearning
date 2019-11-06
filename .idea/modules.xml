@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-first-sight/gateway.iml" filepath="$PROJECT_DIR$/gateway-first-sight/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-pro/gateway-pro.iml" filepath="$PROJECT_DIR$/gateway-pro/gateway-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sleuth/sleuth.iml" filepath="$PROJECT_DIR$/sleuth/sleuth.iml" />
+    </modules>
+  </component>
+</project>
