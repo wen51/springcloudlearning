@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-feign/feign.iml" filepath="$PROJECT_DIR$/service-feign/feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway-first-sight/gateway.iml" filepath="$PROJECT_DIR$/gateway-first-sight/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway-pro/gateway-pro.iml" filepath="$PROJECT_DIR$/gateway-pro/gateway-pro.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
